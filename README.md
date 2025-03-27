@@ -1,0 +1,1 @@
+This project is a comprehensive analysis of bicycle sales data, focusing on key metrics such as sales performance, customer demographics, and product trends. Utilizing advanced Excel functions, the project offers insights into factors influencing bike purchases, including customer age, income, and commute distance. 
